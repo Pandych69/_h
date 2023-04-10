@@ -1,0 +1,2100 @@
+{
+    "Animation": {
+        "Dance": {            
+            "Dancing 1": {
+                "animation":"base",
+                "dictionary":"timetable@tracy@ig_5@base"
+            },
+
+            "Dancing 2": { 
+                "animation":"idle_a",
+                "dictionary":"timetable@tracy@ig_5@idle_a"
+            },
+
+            "Dancing 3": { 
+                "animation":"idle_b",
+                "dictionary":"timetable@tracy@ig_5@idle_a"
+            },
+
+            "Dancing 4": { 
+                "animation":"idle_c",
+                "dictionary":"timetable@tracy@ig_5@idle_a"
+            },
+
+            "Dancing 5": { 
+                "animation":"idle_d",
+                "dictionary":"timetable@tracy@ig_5@idle_b"
+            },
+
+            "Dancing 6": { 
+                "animation":"idle_e",
+                "dictionary":"timetable@tracy@ig_5@idle_b"
+            },
+
+            "Dancing 7": { 
+                "animation":"idle_c",
+                "dictionary":"timetable@tracy@ig_8@idle_a"
+            },
+
+            "Dancing 8": { 
+                "animation":"idle_b",
+                "dictionary":"timetable@tracy@ig_8@idle_a"
+            },
+
+            "Dancing 9": { 
+                "animation":"idle_a",
+                "dictionary":"timetable@tracy@ig_8@idle_a"
+            },
+
+            "Dancing 10": { 
+                "animation":"idle_d",
+                "dictionary":" timetable@tracy@ig_8@idle_b"
+            },
+
+            "Dancing 11": { 
+                "animation":"dance_m_default",
+                "dictionary":"missfbi3_sniping"
+            },
+
+            "Dancing 12": { 
+                "animation":"amb_world_human_partying_female_partying_beer_base",
+                "dictionary":"anim@amb@nightclub@peds@"
+            },
+
+            "Dancing 13": { 
+                "animation":"idle_d",
+                "dictionary":"timetable@tracy@ig_8@idle_b"
+            },
+
+            "Dancing 14": { 
+                "animation":"idle_b",
+                "dictionary":"timetable@tracy@ig_8@idle_a"
+            },
+
+            "Dancing 15": { 
+                "animation":"dance_loop_tao",
+                "dictionary":"misschinese2_crystalmazemcs1_cs"
+            },
+
+            "Dancing 16": {
+                "animation":"low_center",
+                "dictionary":"anim@amb@casino@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Dancing 17": {
+                "animation":"med_center",
+                "dictionary":"anim@amb@casino@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Dancing 18": {
+                "animation":"high_center",
+                "dictionary":"anim@amb@casino@mini@dance@dance_solo@female@var_b@"
+            },
+
+            "Dancing 19": {
+                "animation":"med_center",
+                "dictionary":"anim@amb@casino@mini@dance@dance_solo@female@var_b@"
+            },
+
+
+            "Nightclub Dance 1": { 
+                "animation":"high_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@male@var_b@"
+            },
+
+            "Nightclub Dance 2": { 
+                "animation":"high_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@male@var_a@"
+            },
+
+            "Nightclub Dance 3": { 
+                "animation":"high_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_b@"
+            },
+
+            "Nightclub Dance 4": { 
+                "animation":"high_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 5": { 
+                "animation":"high_center_down",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 6": {
+                "animation":"high_center_up",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 7": { 
+                "animation":"low_center_up",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 8": { 
+                "animation":"low_center_down",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 9": { 
+                "animation":"low_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 10": { 
+                "animation":"med_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 11": { 
+                "animation":"med_center_down",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_b@"
+            },
+
+            "Nightclub Dance 12": { 
+                "animation":"med_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_b@"
+            },
+
+            "Nightclub Dance 13": { 
+                "animation":"high_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_b@"
+            },
+
+            "Nightclub Dance 14": { 
+                "animation":"high_center",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 15": { 
+                "animation":"high_left_up",
+                "dictionary":"anim@amb@nightclub@mini@dance@dance_solo@female@var_a@"
+            },
+
+            "Nightclub Dance 16": { 
+                "animation":"ambclub_09_mi_hi_bellydancer_laz",
+                "dictionary":"anim@amb@nightclub@lazlow@hi_railing@"
+            },
+
+            "Nightclub Dance 17": { 
+                "animation":"danceidle_hi_17_spiderman_laz",
+                "dictionary":"anim@amb@nightclub@lazlow@hi_podium@"
+            },
+
+            "Nightclub Dance 18": { 
+                "animation":"danceidle_hi_17_smackthat_laz",
+                "dictionary":"anim@amb@nightclub@lazlow@hi_podium@"
+            },
+
+            "Nightclub Dance 19": { 
+                "animation":"danceidle_hi_11_turnaround_laz",
+                "dictionary":"anim@amb@nightclub@lazlow@hi_podium@"
+            },
+
+            "Nightclub Dance 20": { 
+                "animation":"danceidle_hi_13_crotchgrab_laz",
+                "dictionary":"anim@amb@nightclub@lazlow@hi_podium@"
+            },
+
+            "Nightclub Dance 21": { 
+                "animation":"danceidle_hi_11_buttwiggle_f_laz",
+                "dictionary":"anim@amb@nightclub@lazlow@hi_podium@"
+            },
+
+            "Lap Dance Invite": { 
+                "animation":"ld_girl_a_invite", 
+                "dictionary":"mini@strip_club@lap_dance@ld_girl_a_invite"
+            },
+
+            "Lap Dance Wait 1": {
+                "animation":"ld_2g_wait_s1", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_wait"
+            },
+
+            "Lap Dance Wait 2": {
+                "animation":"ld_2g_wait_s2", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_wait"
+            },
+
+            "Lap Dance 1": {
+                "animation":"lap_dance_girl",
+                "dictionary":"mp_am_stripper"
+            },
+
+            "Lap Dance 2": {
+                "animation":"ld_2g_p1_s1", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_p1"
+            },
+
+            "Lap Dance 3": {
+                "animation":"ld_2g_p2_s2", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_p2"
+            },
+
+            "Lap Dance 4": {
+                "animation":"ld_2g_p1_s2", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_p1"
+            },
+
+            "Lap Dance 5": {
+                "animation":"ld_2g_p3_s1", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_p3 "
+            },
+
+            "Lap Dance 6": {
+                "animation":"yacht_ld_f", 
+                "dictionary":"oddjobs@assassinate@multi@yachttarget@lapdance"
+            },
+
+            "Lap Dance 7": {
+                "animation":"ld_2g_p3_s2", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_p3"
+            },
+
+            "Lap Dance 8": {
+                "animation":"ld_2g_p2_s1", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_p2"
+            },
+
+            "Lap Dance 9": {
+                "animation":"ld_2g_p3_s1", 
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_p3"
+            },
+
+            "Lap Dance 10": { 
+                "animation":"ld_girl_a_song_a_p3_f", 
+                "dictionary":"mini@strip_club@lap_dance@ld_girl_a_song_a_p3"
+            },
+
+            "Lap Dance 11": {
+                "animation":"mini_strip_club_lap_dance_ld_girl_a_song_a_p1", 
+                "dictionary":"anim@amb@nightclub@peds@"
+            },
+
+            "Private Dance 1": {
+                "animation":"priv_dance_p1", 
+                "dictionary":"mini@strip_club@private_dance@part1"
+            },
+
+            "Private Dance 2": {
+                "animation":"priv_dance_p2", 
+                "dictionary":"mini@strip_club@private_dance@part2"
+            },
+
+            "Private Dance 3": {
+                "animation":"priv_dance_p3", 
+                "dictionary":"mini@strip_club@private_dance@part3"
+            },
+
+            "Pole Dance 1": {
+                "animation":"pd_dance_01",
+                "dictionary":"mini@strip_club@pole_dance@pole_dance1"
+            },
+
+            "Pole Dance 2": {
+                "animation":"pd_dance_02",
+                "dictionary":"mini@strip_club@pole_dance@pole_dance2"
+            },
+
+            "Pole Dance 3": {
+                "animation":"pd_dance_03",
+                "dictionary":"mini@strip_club@pole_dance@pole_dance3"
+            },
+
+            "Fame or Shame": {
+                "animation":"cs_tracydisanto_dual-12",
+                "dictionary":"family_4_mcs_2-12"
+            },
+
+            "Mountian Dance": {
+                "animation":"base",
+                "dictionary":"special_ped@mountain_dancer@base"
+            }
+        },
+
+        "Idle": {
+            "Idle 1": {
+                "animation":"base",
+                "dictionary":"amb@prop_human_seat_sunlounger@female@base"
+            },
+
+            "Idle 2": {
+                "animation":"idle_a",
+                "dictionary":"amb@prop_human_seat_sunlounger@female@idle_a"
+            },
+
+            "Idle 3": {
+                "animation":"idle_a",
+                "dictionary":"amb@prop_human_seat_sunlounger@male@idle_a"
+            },
+
+            "Idle 4": {
+                "animation":"001523_01_mics3_9_lounge_chairs_idle_ama",
+                "dictionary":"switch@michael@lounge_chairs"
+            },
+
+            "Idle 5": {
+                "animation":"prop_human_sunlounger_lo_res_base",
+                "dictionary":"amb@lo_res_idles@"
+            },
+
+            "Sunbathe 1": {
+                "animation":"base",
+                "dictionary":"amb@world_human_sunbathe@female@back@base"
+            },
+
+            "Sunbathe 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_sunbathe@female@front@base"
+            },
+
+            "Sunbathe 3": {
+                "animation":"base",
+                "dictionary":"amb@world_human_sunbathe@male@back@base"
+            },
+
+            "Sunbathe 4": {
+                "animation":"base",
+                "dictionary":"amb@world_human_sunbathe@male@front@base"
+            },
+
+            "Laying on the Ground": {
+                "animation":"base",
+                "dictionary":"timetable@denice@ig_1"
+            },
+
+            "Sleeping 1": {
+                "animation":"t_sleep_r_loop_veniceb",
+                "dictionary":"saveveniceb@"
+            },
+
+            "Sleeping 2": {
+                "animation":"f_sleep_l_loop_bighouse",
+                "dictionary":"anim@mp_bedmid@left_var_02"
+            },
+
+            "Sleeping 3": {
+                "animation":"f_sleep_l_loop_bighouse",
+                "dictionary":"anim@mp_bedmid@left_var_03"
+            }
+        },
+
+        "Sit": {
+            "Sit 1": {
+                "animation":"generic_seating_lo_res_base",
+                "dictionary":"amb@lo_res_idles@"
+            },
+
+            "Sit 2": {
+                "animation":"on_clubchair_b",
+                "dictionary":"timetable@michael@on_clubchairidle_a"
+            },
+
+            "Sit 3": {
+                "animation":"on_chair_base",
+                "dictionary":"timetable@michael@on_chairbase"
+            },
+
+            "Sit 4": {
+                "animation":"gc_las_ig_1_whats_up_stretch",
+                "dictionary":"timetable@lamar@ig_1"
+            },
+
+            "Sit 5": {
+                "animation":"fbi_4_int_trv_idle_andreas",
+                "dictionary":"missfbi4leadinoutfbi_4_int"
+            },
+
+            "Sit 6": {
+                "animation":"fbi_4_int_trv_idle_dave",
+                "dictionary":"missfbi4leadinoutfbi_4_int"
+            },
+
+            "Sit 7": {
+                "animation":"fbi_4_int_trv_idle_steve",
+                "dictionary":"missfbi4leadinoutfbi_4_int"
+            },
+            
+            "Sit 8": {
+                "animation":"idle_a",
+                "dictionary":"missarmenian3_gardener"
+            },
+
+            "Sit 9": {
+                "animation":"josh_sitting_loop",
+                "dictionary":"rcmjosh2"
+            },
+
+            "Sit 10": {
+                "animation":"idle_a",
+                "dictionary":"anim@amb@casino@out_of_money@ped_male@02b@idles"
+            },
+
+            "Sit 11": {
+                "animation":"cs_stevehains_dual-1",
+                "dictionary":"fbi_2_int-1"
+            },
+
+            "Sit 12": {
+                "animation":"pa_idle_a",
+                "dictionary":"anim@amb@office@pa@female@"
+            },
+
+            "Sit 13": {
+                "animation":"look_around_v1_lazyworkerfemale",
+                "dictionary":"anim@amb@business@cfid@cfid_desk_no_work_bgen_chair_no_work@"
+            },
+
+            "Sit thoughtfully 1": {
+                "animation":"mp_m_freemode_01^1_dual-9",
+                "dictionary":"iaaj_int-9"
+            },
+
+            "Sit thoughtfully 2": {
+                "animation":"idle_a",
+                "dictionary":"anim@amb@office@boardroom@crew@female@var_a@base@"
+            },
+            
+            "Sit thoughtfully 3": {
+                "animation":"idle_e",
+                "dictionary":"anim@amb@office@boardroom@crew@female@var_a@base@"
+            },
+
+            "Leaning on 1": {
+                "animation":"u_f_m_debbie_01_dual-8",
+                "dictionary":"mpcas1_int-8"
+            },
+
+            "Leaning on 2": { 
+                "animation":"playing_loop_female_01",
+                "dictionary":"anim@amb@casino@brawl@reacts@hr_blackjack@bg_blackjack_breakout_t02@bg_blackjack_breakout_t02_s01_s03@"
+            },
+
+            "Leaning on 3": { 
+                "animation":"playing_loop_female_02",
+                "dictionary":"anim@amb@casino@brawl@reacts@hr_blackjack@bg_blackjack_breakout_t02@bg_blackjack_breakout_t02_s01_s03@"
+            },
+
+            "Sit low  in the car 1": {
+                "animation":"base",
+                "dictionary":"amb@code_human_in_car_idles@low@ps@base"
+            },
+
+            "Sit low  in the car 2": {
+                "animation":"base",
+                "dictionary":"amb@incar@male@smoking_low@base"
+            },
+
+            "Sit low": {
+                "animation":"idle",
+                "dictionary":"anim@miss@low@fin@lamar@"
+            },
+            
+            "Victim Electrocute Idle 1": {
+                "animation":"clamp_both_idle_victim",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Victim Electrocute Idle 2": {
+                "animation":"clamp_left_loop_victim",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Victim Electrocute Idle 3": {
+                "animation":"clamp_right_loop_victim",
+                "dictionary":"missfbi3_electrocute"
+            },
+            
+            "Pooping": {
+                "animation":"trevonlav_baseloop", 
+                "dictionary":"timetable@trevor@on_the_toilet"
+            },
+
+            "Picnic 1": {
+                "animation":"base",
+                "dictionary":"amb@world_human_picnic@female@base"
+            },
+
+            "Picnic 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_picnic@male@base"
+            },
+
+            "Meditiate": {
+                "animation":"meditiate_idle",
+                "dictionary":"rcmcollect_paperleadinout@"
+            },
+
+            "Sitting On Ground 1": {
+                "animation":"loop",
+                "dictionary":"switch@trevor@naked_island"
+            },
+
+            "Sitting On Ground 2": {
+                "animation":"idle_a_jimmy",
+                "dictionary":"timetable@jimmy@mics3_ig_15@"
+            },
+            
+            "Sitting On Ground 3": {
+                "animation":"owner_idle",
+                "dictionary":"anim@heists@fleeca_bank@ig_7_jetski_owner"
+            },
+
+            "Sitting On Ground 4": {
+                "animation":"sit_phone_phoneputdown_idle-noworkfemale",
+                "dictionary":"anim@amb@business@bgen@bgen_no_work@"
+            },
+            
+            "Sitting On Ground 5": {
+                "animation":"jimmy@_smoking_base",
+                "dictionary":"anim_heist@arcade_combined@"
+            },
+
+            "Sitting On Ground 6": {
+                "animation":"jimmy@_smoking_idle_01",
+                "dictionary":"anim_heist@arcade_combined@"
+            },
+
+            "Sit Ups": {
+                "animation":"base",
+                "dictionary":"amb@world_human_sit_ups@male@base"
+            },
+
+            "Medic 1": {
+                "animation":"base",
+                "dictionary":"amb@medic@standing@tendtodead@base"
+            },
+
+            "Medic 2": {
+                "animation":"base",
+                "dictionary":"amb@medic@standing@kneel@base"
+            },
+
+            "Victim Tooth Pull Idle 1": {
+                "animation":"pull_tooth_idle_victim",
+                "dictionary":"missfbi3_toothpull"
+            },
+
+            "Victim Tooth Pull Idle 2": {
+                "animation":"pull_tooth_ready_loop_victim",
+                "dictionary":"missfbi3_toothpull"
+            },
+
+            "Victim Teeth Pulling": {
+                "animation":"pull_tooth_loop_victim",
+                "dictionary":"missfbi3_toothpull"
+            },
+
+            "Victim Teeth Pulling Weak": {
+                "animation":"pull_tooth_loop_weak_victim",
+                "dictionary":"missfbi3_toothpull"
+            },
+
+            "Use Syringe On Victim": {
+                "animation":"syringe_use_victim",
+                "dictionary":"missfbi3_syringe"
+            },
+
+            "Scared 1": {
+                "animation":"f_cower_01",
+                "dictionary":"random@robbery"
+            },
+            
+            "Scared 2": {
+                "animation":"base",
+                "dictionary":"amb@code_human_cower@female@base"
+            },
+
+            "Scared 3": {
+                "animation":"base",
+                "dictionary":"amb@code_human_cower@male@base"
+            },
+
+            "Scared 4": {
+                "animation":"base",
+                "dictionary":"amb@code_human_cower_stand@female@base"
+            },
+
+            "Scared 5": {
+                "animation":"base",
+                "dictionary":"amb@code_human_cower_stand@male@base"
+            },
+
+            "Victim Electrocute": {
+                "animation":"electrocute_both_loop_victim",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Victim Flatline Intro": {
+                "animation":"weapon_select_syringe_victim",
+                "dictionary":"missfbi3_syringe"
+            },
+
+            "Victim Flatline 1": {
+                "animation":"flatline_loop_victim",
+                "dictionary":"missfbi3_syringe"
+            },
+
+            "Victim Flatline 2": {
+                "animation":"syringe_idle_victim",
+                "dictionary":"missfbi3_syringe"
+            },
+
+            "Victim Sparked": {
+                "animation":"electrocute_spark_victim",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Victim Waterboard Idle 1": {
+                "animation":"waterboard_idle_victim",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Victim Waterboard Idle 2": {
+                "animation":"waterboard_ready_loop_victim",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Victim Chair Kicked": {
+                "animation":"waterboard_kick_victim",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Victim Electrocute Wait": {
+                "animation":"clamp_wait_loop_victim",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Sitting idle on the phone": {
+                "animation":"sit_phone_idle_01-noworkfemale",
+                "dictionary":"anim@amb@business@bgen@bgen_no_work@"
+            },
+
+            "Sleep":{
+                "animation":"franklin_asleep",
+                "dictionary":"misscarsteal4asleep"
+            },
+
+            "Sleeping1": {
+                "animation":"sleeping_idle",
+                "dictionary":"random@car_sleeping"
+            },
+
+            "Sleeping 2": {
+                "animation":"sleep_in_car_michael",
+                "dictionary":"switch@michael@sleep_in_car"
+            },
+
+            "Car knockout": {
+                "animation":"car_knockout_player",
+                "dictionary":"friends@grifing@vehicle@franklin"
+            },
+
+            "Squatting": {
+                "animation":"talk_pipe_b_worker1",
+                "dictionary":"missheistdockssetup1ig_10@idle_b"
+            }
+        },
+
+        "Stand": {
+            "Stand": {
+                "animation":"idle_a",
+                "dictionary":"amb@code_human_in_car_mp_actions@gang_sign_a@low@ds@base"
+            },
+
+            "Stand 2": {
+                "animation":"look_lamar",
+                "dictionary":"friends@frl@ig_1"
+            },
+
+            "Stand 3": {
+                "animation":"idle_a_lamar",
+                "dictionary":"friends@frl@ig_1"
+            },
+            
+            "Stand 4": {
+                "animation":"idle_c_lamar",
+                "dictionary":"friends@frl@ig_1"
+            },
+
+            "Stand 5": {
+                "animation":"lamar_idle_01",
+                "dictionary":"missarmenian1ig_13"
+            },
+
+            "Stand 6": {
+                "animation":"idle_a",
+                "dictionary":"amb@world_human_leaning@male@coffee@idle_a"
+            },
+
+            "Stand 7": {
+                "animation":"base",
+                "dictionary":"amb@world_human_stand_impatient@female@no_sign@base"
+            },
+
+            "Stand 8": {
+                "animation":"base",
+                "dictionary":"amb@world_human_stand_impatient@male@no_sign@base"
+            },
+
+            "Stand 9": {
+                "animation":"ig_9_base_amanda",
+                "dictionary":"timetable@amanda@ig_9"
+            },
+
+            "Stand 10": {
+                "animation":"hey_one_time_stretch",
+                "dictionary":"timetable@lamar@ig_4"
+            },
+
+            "Stand 11": {
+                "animation":"base",
+                "dictionary":"anim@amb@casino@hangout@ped_female@stand@01a@"
+            },
+
+            "Stand 12": {
+                "animation":"base",
+                "dictionary":"anim@amb@casino@hangout@ped_female@stand@01a@base"
+            },
+
+            "Stand 13": {
+                "animation":"idle_d",
+                "dictionary":"anim@amb@casino@hangout@ped_female@stand@01a@idles"
+            },
+
+            "Stand 14": {
+                "animation":"base",
+                "dictionary":"anim@amb@casino@hangout@ped_female@stand@02a@base"
+            },
+            
+            "Look at 1": {
+                "animation":"cs_stevehains_dual-2",
+                "dictionary":"fbi_3_int-2"
+            },
+
+            "Look at 2": {
+                "animation":"idle_e",
+                "dictionary":"amb@world_human_guard_patrol@male@idle_b"
+            },
+
+            "Talking on the phone 1": {
+                "animation":"static",
+                "dictionary":"amb@code_human_wander_mobile@female@base"
+            },
+
+            "Talking on the phone 2": {
+                "animation":"amb@world_human_leaning@male@wall@back@mobile@idle_a",
+                "dictionary":"anim_heist@arcade_combined@"
+            },
+
+            "Leaning 1": {
+                "animation":"stand_phone_lookaround_nowork",
+                "dictionary":"anim_heist@arcade_combined@"
+            },
+
+            "Leaning 2":{
+                "animation":"base_02_willie",
+                "dictionary":"rcmnigel1aig_1"
+            },
+
+            "Stay in suspense":{
+                "animation":"fist_bump_right_facial",
+                "dictionary":"anim@mp_player_intcelebrationpaired@m_m_fist_bump"
+            },
+
+            "Arms Crossed 1": { 
+                "animation":"rcmme_amanda1_stand_loop_cop",
+                "dictionary":"anim@amb@nightclub@peds@"
+            },
+
+            "Arms Crossed 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_hang_out_street@female_arms_crossed@base"
+            },
+
+            "Arms Crossed 3": {
+                "animation":"ped_female@_stand@_03a@_base_base",
+                "dictionary":"anim_heist@arcade_combined@"
+            },
+
+            "Arms Crossed 4":{
+                "animation":"female_arms_crossed@_base_base",
+                "dictionary":"anim_heist@arcade_combined@"
+            },
+            
+            "Arms Crossed 5":{
+                "animation":"stand_phone_phoneputdown_stretching-noworkfemale",
+                "dictionary":"anim@amb@business@bgen@bgen_no_work@"
+            },
+
+            "Pose Angry": {
+                "animation":"pose_angry_1",
+                "dictionary":"facials@gen_male@base"
+            },
+
+            "Agent Andreas idle": {
+                "animation":"agents_idle_b_andreas",
+                "dictionary":"missfbi4leadinoutfbi_4_int"
+            },
+
+            "Agent Steve idle": {
+                "animation":"agents_idle_a_steve",
+                "dictionary":"missfbi4leadinoutfbi_4_int"
+            },
+
+            "Guard 1": {
+                "animation":"_action_guard_a",
+                "dictionary":"rcmpaparazzo_3big_1"
+            },
+
+            "Guard 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_stand_guard@male@base"
+            },
+
+            "Guard Stop": {
+                "animation":"mini_strip_club_idles_bouncer_stop_stop",
+                "dictionary":"anim@amb@casino@peds@"
+            },
+
+            "Stand idly by":{
+                "animation":"amb_world_human_hang_out_street_male_c_base",
+                "dictionary":"anim@amb@casino@peds@"
+            },
+
+            "Tired": {
+                "animation":"base",
+                "dictionary":"amb@world_human_hang_out_street@female_arm_side@base"
+            },
+
+            "Nervous": {
+                "animation":"ranger_nervous_loop",
+                "dictionary":"switch@michael@parkbench_smoke_ranger"
+            },
+
+            "Folded hands": {
+                "animation":"unarmed_fold_arms",
+                "dictionary":"oddjobs@assassinate@guard"
+            },
+
+            "Hang Out 1": {
+                "animation":"base",
+                "dictionary":"amb@world_human_hang_out_street@female_arm_side@base"
+            },
+
+            "Hang Out 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_hang_out_street@female_arms_crossed@base"
+            },
+
+            "Hang Out 3": {
+                "animation":"base",
+                "dictionary":"amb@world_human_hang_out_street@female_hold_arm@base"
+            },
+
+            "Hang Out 4": {
+                "animation":"base",
+                "dictionary":"amb@world_human_leaning@female@wall@back@hand_up@base"
+            },
+
+            "Hang Out 5": {
+                "animation":"base",
+                "dictionary":"amb@world_human_leaning@female@wall@back@holding_elbow@base"
+            },
+
+            "Hang Out 6": {
+                "animation":"base",
+                "dictionary":"amb@world_human_leaning@female@wall@back@mobile@base"
+            },
+
+            "Street Corner Sexy 1": { 
+                "animation":"base", 
+                "dictionary":"amb@world_human_prostitute@french@base"
+            },
+
+            "Street Corner Sexy 2": {
+                "animation":"base", 
+                "dictionary":"amb@world_human_prostitute@hooker@base"
+            },
+
+            "Street Corner Sexy 3": {
+                "animation":"base", 
+                "dictionary":"amb@world_human_prostitute@cokehead@base"
+            },
+
+            "Street Corner Sexy 4": {
+                "animation":"base", 
+                "dictionary":"amb@world_human_prostitute@crackhooker@base"
+            },
+
+            "Street Corner Sexy 5": {
+                "animation":"base_hooker", 
+                "dictionary":"switch@michael@prostitute"
+            },
+
+            "Stripper Wait 1": {
+                "animation":"stripper_idle_06", 
+                "dictionary":"mini@strip_club@idles@stripper"
+            },
+
+            "Stripper Wait 2": {
+                "animation":"stripper_idle_04", 
+                "dictionary":"mini@strip_club@idles@stripper"
+            },
+
+            "Stripper Wait 3": {
+                "animation":"stripper_idle_03", 
+                "dictionary":"mini@strip_club@idles@stripper"
+            },
+
+            "Stripper Wait 4": {
+                "animation":"stripper_idle_01", 
+                "dictionary":"mini@strip_club@idles@stripper"
+            },
+
+            "Stripper Wait 5": {
+                "animation":"stripper_idle_02", 
+                "dictionary":"mini@strip_club@idles@stripper"
+            },
+
+            "Arms Cross": {
+                "animation":"single_team_intro_boss",
+                "dictionary":"anim@heists@heist_corona@single_team"
+            },
+
+            "Superhero Waiting": {
+                "animation":"base",
+                "dictionary":"special_ped@impotent_rage@base"
+            },
+
+            "Tied Up 1": {
+                "animation":"idle_a_ped",
+                "dictionary":"re@stag_do@idle_a"
+            },
+
+            "Tied Up 2": {
+                "animation":"idle_b_ped",
+                "dictionary":"re@stag_do@idle_a"
+            },
+
+            "Tied Up 3": {
+                "animation":"idle_c_ped",
+                "dictionary":"re@stag_do@idle_a"
+            },
+
+            "Smoking Female": {
+                "animation":"base",
+                "dictionary":"amb@world_human_smoking@female@base"
+            },
+
+            "Smoking Male 1": {
+                "animation":"base",
+                "dictionary":"amb@world_human_smoking@male@male_a@base"
+            },
+
+            "Smoking Male 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_smoking@male@male_b@base"
+            },
+
+            "Player Waiting To Electrocute 1": {
+                "animation":"clamp_left_loop_player",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Player Waiting To Electrocute 2": {
+                "animation":"clamp_right_loop_player",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Player Waiting To Electrocute 3": {
+                "animation":"clamp_wait_loop_player",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Looking Around 1": {
+                "animation":"idle_a",
+                "dictionary":"amb@world_human_guard_patrol@male@idle_a"
+            },
+
+            "Looking Around 2": {
+                "animation":"idle_e",
+                "dictionary":"amb@world_human_guard_patrol@male@idle_b"
+            },
+
+            "Looking Around 3": {
+                "animation":"base",
+                "dictionary":"amb@world_human_guard_patrol@male@base"
+            },
+
+            "Lean back": {
+                "animation":"stand_lean_back_beckon_b",
+                "dictionary":"rcmjosh2"
+            }
+        },
+
+        "Weapons": {
+            "Grip [ Pistol ]": {
+                "animation":"grip",
+                "dictionary":"weapons@pistol@"
+            },
+
+            "Crouch With Pistol 1": { 
+                "animation":"idle",
+                "dictionary":"move_aim_strafe_crouch_2h"
+            },
+
+            "Crouch With Pistol 2": { 
+                "animation":"crouch",
+                "dictionary":"combat@chg_stance"
+            },
+
+            "Crouch With Sniper 1": { 
+                "animation":"franklin_sniper_crouch",
+                "dictionary":"missfbi2"
+            },
+
+            "Crouch With Rifle 1": { 
+                "animation":"idle_crouch",
+                "dictionary":"move_weapon@rifle@generic"
+            },
+
+            "Crouch With Rifle 2": { 
+                "animation":"cs_davenorton_dual-2",
+                "dictionary":"pro_mcs_6-2"
+            },
+
+            "Gun 1 [ Pistol ]": { 
+                "animation":"wave_1_a",
+                "dictionary":"missfbi2"
+            },
+
+            "Gun 2 [ Rifle ]": { 
+                "animation":"wave_2_a",
+                "dictionary":"missfbi2"
+            },
+
+            "Gun 3 [ Pistol ]": { 
+                "animation":"wave_2_c",
+                "dictionary":"missfbi2"
+            },
+
+            "Gun 4 [ Pistol ]": { 
+                "animation":"wave_2_d",
+                "dictionary":"missfbi2"
+            },
+
+            "Gun 5 [ Rifle ]": { 
+                "animation":"wave_3_a",
+                "dictionary":"missfbi2"
+            },
+
+            "Gun 6 [ Rifle ]": { 
+                "animation":"wave_3_b",
+                "dictionary":"missfbi2"
+            },
+
+            "Gun 7 [ Pistol ]": { 
+                "animation":"wave_1_b",
+                "dictionary":"missfbi2"
+            },
+
+            "Gun 8 [ Rifle ]": { 
+                "animation":"hunter_idle",
+                "dictionary":"rcmlastone1"
+            },
+
+            "Gun 9 [ Pistol ]": { 
+                "animation":"aim_variation_a",
+                "dictionary":"combat@aim_variations@1h@gang"
+            },
+
+            "Gun 10 [ Pistol ]": { 
+                "animation":"aim_variation_f",
+                "dictionary":"combat@aim_variations@1h@hillbilly"
+            },
+
+            "Gun 11 [ Rifle ]": { 
+                "animation":"base",
+                "dictionary":"anim@amb@office@boardroom@boss@female@"
+            },
+
+            "Injured 1 [ Pistol ]": { 
+                "animation":"variation_a",
+                "dictionary":"combat@damage@injured_pistol@to_writhe"
+            },
+            
+            "Injured 2 [ Pistol ]": { 
+                "animation":"variation_c",
+                "dictionary":"combat@damage@injured_pistol@to_writhe"
+            },
+
+            "Injured 3 [ Pistol ]": { 
+                "animation":"normal_to_injured",
+                "dictionary":"combat@damage@normal_pistol@to_injured"
+            },
+
+            "Injured 4 [ Pistol ]": { 
+                "animation":"writhe_loop",
+                "dictionary":"combat@damage@writhe"
+            },
+
+            "Waiting 1 [ Rifle ]": {
+                "animation":"start_loop_a_player2",
+                "dictionary":"missheistpaletoscore2ig_8_p2"
+            },
+
+            "Waiting 2 [ Rifle ]": {
+                "animation":"start_loop_player2",
+                "dictionary":"missheistpaletoscore2mcs_2_pt1"
+            },
+
+            "Waitng 3 [ Sniper ]": {
+                "animation":"player_zero_dual-3",
+                "dictionary":"fin_c_mcs_1-3"
+            },
+
+            "Waitng 4 [ Rifle ]": {
+                "dictionary":"cover@move@ai@base@2h@", "animation":"high_idle_l"
+            },
+
+            "Waitng 5 [ Rifle ]": {
+                "dictionary":"cover@move@ai@base@2h@", "animation":"high_idle_r"
+            },
+
+            "Waitng 6 [ Rifle ]": {
+                "dictionary":"cover@move@ai@base@2h@", "animation":"high_idle_r_edge"
+            },
+
+            "Waitng 7 [ Rifle ]": {
+                "dictionary":"cover@move@ai@base@2h@", "animation":"high_idle_r_peek"
+            },
+
+            "Waitng 8 [ Rifle ]": {
+                "dictionary":"cover@idles@2h@low@_a", "animation":"idle_l_corner"
+            },
+
+            "Waitng 9 [ Rifle ]": {
+                "dictionary":"cover@idles@2h@low@_a", "animation":"idle_r_corner"
+            },
+
+            "Waitng 10 [ Shotgun ]": {
+                "animation":"csb_cletus_dual-1",
+                "dictionary":"cletus_mcs_1_concat-1"
+            },
+
+            "Leaning [ Pistol ]":{
+                "animation":"wall_block",
+                "dictionary":"weapons@pistol@"
+            },
+
+            "Prone With Sniper": { 
+                "animation":"prone_michael",
+                "dictionary":"missfbi3_sniping"
+            },
+
+            "Checking weapons [ Rifle ]": {
+                "animation":"weapon_test_01_amy_skater_01",
+                "dictionary":"anim@amb@range@weapon_test@"
+            }
+        },
+
+        "Gestures": {
+            "Slow clap 1": {
+                "animation":"idle_a",
+                "dictionary":"anim@mp_player_intincarslow_clapbodhi@ds@"
+            },
+
+            "Slow clap 2": {
+                "animation":"idle_a_fp",
+                "dictionary":"anim@mp_player_intincarslow_clapbodhi@ds@"
+            },
+
+            "Handshake": {
+                "animation":"handshake_guy_b",
+                "dictionary":"mp_ped_interaction"
+            },
+
+            "Greet": {
+                "animation":"greet",
+                "dictionary":"mp_cp_welcome_tutgreet"
+            },
+
+            "Greeting": {
+                "animation":"_greeting",
+                "dictionary":"random@shop_tattoo"
+            },
+            
+            "Bye": {
+                "animation":"gesture_bye_hard",
+                "dictionary":"gestures@f@standing@casual"
+            },
+
+            "Hello": {
+                "animation":"gesture_hello",
+                "dictionary":"gestures@f@standing@casual"
+            },
+
+            "Nod Yes": {
+                "animation":"gesture_nod_yes_hard",
+                "dictionary":"gestures@f@standing@casual"
+            },
+
+            "Shrug 1": {
+                "animation":"gesture_shrug_soft",
+                "dictionary":"gestures@f@standing@casual"
+            },
+
+            "Shrug 2": {
+                "animation":"gesture_shrug_hard",
+                "dictionary":"gestures@f@standing@casual"
+            },
+
+            "Point": {
+                "animation":"gesture_point",
+                "dictionary":"gestures@f@standing@casual"
+            },
+
+            "Thanks": {
+                "animation":"thanks_male_05",
+                "dictionary":"random@arrests"
+            },
+
+            "Thinking": {
+                "animation":"base",
+                "dictionary":"timetable@tracy@ig_8@base"
+            },
+
+            "Arms Waving": {
+                "animation":"arms_waving",
+                "dictionary":"random@car_thief@victimpoints_ig_3"
+            },
+
+            "Cheering 1": {
+                "animation":"base",
+                "dictionary":"amb@world_human_cheering@female_a"
+            },
+
+            "Cheering 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_cheering@female_b"
+            },
+
+            "Cheering 3": {
+                "animation":"base",
+                "dictionary":"amb@world_human_cheering@female_c"
+            },
+
+            "Cheering 4": {
+                "animation":"base",
+                "dictionary":"amb@world_human_cheering@female_d"
+            },
+
+            "Drinking 1": {
+                "animation":"shots_player_a",
+                "dictionary":"mini@drinking"
+            },
+
+            "Drinking 2": {
+                "animation":"shots_player_b",
+                "dictionary":"mini@drinking"
+            },
+
+            "Why": {
+                "animation":"gesture_why",
+                "dictionary":"gestures@m@car@van@casual@ps"
+            },
+
+            "Fail": {
+                "animation":"fail",
+                "dictionary":"anim@heists@ornate_bank@chat_manager"
+            },
+
+            "Nice Car": {
+                "animation":"nice_car",
+                "dictionary":"anim@heists@ornate_bank@chat_manager"
+            },
+
+            "Spreading their arms": {
+                "animation":"draw_react_male_a",
+                "dictionary":"anim@mp_celebration@draw@male"
+            },
+
+            "Face Palm": {
+                "animation":"face_palm",
+                "dictionary":"anim@mp_player_intcelebrationfemale@face_palm"
+            },
+
+            "Celebrate 1": {
+                "animation":"regal_a_1st",
+                "dictionary":"anim@arena@celeb@podium@no_prop@"
+            },
+            
+            "Celebrate 2": { 
+                "animation":"regal_c_3rd",
+                "dictionary":"anim@arena@celeb@podium@no_prop@"
+            }        
+        },
+
+        "Deaths": {
+            "Combat Death 1": {
+                "animation":"death_a",
+                "dictionary":"combat@death@from_writhe"
+            },
+
+            "Combat Death 2": {
+                "animation":"death_b",
+                "dictionary":"combat@death@from_writhe"
+            },
+
+            "Combat Death 3": {
+                "animation":"death_c",
+                "dictionary":"combat@death@from_writhe"
+            },
+
+            "Death By Electrocution": {
+                "animation":"electrocute",
+                "dictionary":"ragdoll@human"
+            },
+
+            "Death By Electrocution Cuffed": {
+                "animation":"electrocute_cuffed",
+                "dictionary":"ragdoll@human"
+            },
+
+            "Death By Fire": {
+                "animation":"on_fire",
+                "dictionary":"ragdoll@human"
+            },
+
+            "Death By Fire Cuffed": {
+                "animation":"on_fire_cuffed",
+                "dictionary":"ragdoll@human"
+            },
+
+            "Frontal Hatchet Kill 1": {
+                "animation":"victim_front_takedown",
+                "dictionary":"melee@hatchet@streamed_core"
+            },
+
+            "Frontal Hatchet Kill 2": {
+                "animation":"victim_front_takedown_b",
+                "dictionary":"melee@hatchet@streamed_core"
+            },
+
+            "Frontal Knife Kill 1": {
+                "animation":"victim_knife_front_takedown",
+                "dictionary":"melee@knife@streamed_core"
+            },
+
+            "Frontal Knife Kill 2": {
+                "animation":"victim_knife_front_takedown_variation_a",
+                "dictionary":"melee@knife@streamed_variations"
+            },
+
+            "Frontal Knife Kill 3": {
+                "animation":"victim_knife_front_takedown_variation_b",
+                "dictionary":"melee@knife@streamed_variations"
+            },
+
+            "Knife Stealth Kill": {
+                "animation":"victim_knife_stealth_kill",
+                "dictionary":"melee@knife@streamed_core"
+            },
+
+            "Rear Hatchet Kill 1": {
+                "animation":"victim_rear_takedown",
+                "dictionary":"melee@hatchet@streamed_core"
+            },
+
+            "Rear Hatchet Kill 2": {
+                "animation":"victim_rear_takedown_b",
+                "dictionary":"melee@hatchet@streamed_core"
+            },
+
+            "Rear Knife Kill 1": {
+                "animation":"victim_knife_rear_takedown",
+                "dictionary":"melee@knife@streamed_core"
+            },
+
+            "Rear Knife Kill 2": {
+                "animation":"victim_knife_rear_takedown_variation_a",
+                "dictionary":"melee@knife@streamed_variations"
+            },
+
+            "Rear Knife Kill 3": {
+                "animation":"victim_knife_rear_takedown_variation_b",
+                "dictionary":"melee@knife@streamed_variations"
+            },
+
+            "Suicide Gun": {
+                "animation":"pistol",
+                "dictionary":"mp_suicide"
+            },
+
+            "Suicide Pill": {
+                "animation":"pill",
+                "dictionary":"mp_suicide"
+            },
+
+            "Play Dead 1": {
+                "animation":"dead_a",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 2": {
+                "animation":"dead_b",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 3": {
+                "animation":"dead_c",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 4": {
+                "animation":"dead_d",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 5": {
+                "animation":"dead_e",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 6": {
+                "animation":"dead_f",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 7": {
+                "animation":"dead_g",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 8": {
+                "animation":"dead_h",
+                "dictionary":"dead"
+            },
+
+            "Play Dead 9": {
+                "animation":"lying_dead_player0",
+                "dictionary":"missfinale_c1@"
+            },
+
+            "Play Dead 10": {
+                "animation":"dead_idle",
+                "dictionary":"misslamar1dead_body"
+            },
+
+            "Play Dead 11": {
+                "animation":"lying_dead_brad",
+                "dictionary":"missprologueig_6"
+            },
+
+            "Play Dead 12": {
+                "animation":"lying_dead_player0",
+                "dictionary":"missprologueig_6"
+            },
+
+            "Play Dead 13": {
+                "animation":"loop_ped",
+                "dictionary":"switch@trevor@under_pier"
+            },
+
+            "Play Dead Falling 1": {
+                "animation":"dead_fall_down",
+                "dictionary":"dead@fall"
+            },
+
+            "Play Dead Falling 2": {
+                "animation":"dead_fall_up",
+                "dictionary":"dead@fall"
+            },
+
+            "Play Dead Landing 1": {
+                "animation":"dead_land_down",
+                "dictionary":"dead@fall"
+            },
+
+            "Play Dead Landing 2": {
+                "animation":"dead_land_up",
+                "dictionary":"dead@fall"
+            }
+        },
+
+        "Police": {
+            "Arrest": {
+                "animation":"arrest_on_floor_front_right_b",
+                "dictionary":"mp_arresting"
+            },
+
+            "Arrest with Pistol": { 
+                "animation":"radio_chatter", 
+                "dictionary":"random@arrests"
+            },
+
+            "Busted 1": { 
+                "animation":"idle_b", 
+                "dictionary":"random@arrests@busted"
+            },
+
+            "Busted 2": { 
+                "animation":"idle_a", 
+                "dictionary":"random@arrests@busted"
+            },
+
+            "Busted 3": { 
+                "animation":"idle_c", 
+                "dictionary":"random@arrests@busted"
+            },
+
+            "Busted 4": { 
+                "animation":"kneeling_arrest_idle", 
+                "dictionary":"random@arrests"
+            },
+
+            "Busted 5": {
+                "animation":"m_cower_01",
+                "dictionary":"mp_bank_heist_1"
+            },
+
+            "Busted 6": {
+                "animation":"m_cower_01",
+                "dictionary":"mp_bank_heist_1"
+            },
+
+            "Busted 7": {
+                "animation":"m_cower_02",
+                "dictionary":"mp_bank_heist_1"
+            },
+
+            "Busted 8": {
+                "animation":"m_cower_02",
+                "dictionary":"mp_bank_heist_1"
+            },
+
+            "Cop 1": { 
+                "animation":"idle_a", 
+                "dictionary":"amb@code_human_police_investigate@idle_a"
+            },
+
+            "Cop 2": { 
+                "animation":"idle_f", 
+                "dictionary":"amb@code_human_police_investigate@idle_b"
+            },
+
+            "Cop 3": { 
+                "animation":"base", 
+                "dictionary":"amb@world_human_cop_idles@female@base"
+            },
+
+            "Cop 4": { 
+                "animation":"idle_b", 
+                "dictionary":"amb@world_human_cop_idles@female@idle_a"
+            },
+
+            "Cop 5": { 
+                "animation":"idle_a", 
+                "dictionary":"amb@world_human_cop_idles@female@idle_a"
+            },
+
+            "Cop 6": { 
+                "animation":"idle_d", 
+                "dictionary":"amb@world_human_cop_idles@female@idle_b"
+            },
+
+            "Cop 7": { 
+                "animation":"base", 
+                "dictionary":"amb@world_human_cop_idles@male@base"
+            },
+
+            "Cop 8": { 
+                "animation":"idle_b", 
+                "dictionary":"amb@world_human_cop_idles@male@idle_a"
+            },
+
+            "Cop 9": { 
+                "animation":"idle_d", 
+                "dictionary":"amb@world_human_cop_idles@male@idle_b"
+            },
+
+            "Handcuffed": { 
+                "animation":"aim_med_loop", 
+                "dictionary":"anim@move_m@prisoner_cuffed_rc"
+            },
+
+            "Hands Up": { 
+                "animation":"handsup",
+                "dictionary":"ped"
+            },
+
+            "Aiming 1": {
+                "animation":"fidget_med_loop",
+                "dictionary":"weapons@first_person@aim_lt@p_m_zero@assault_rifle@carbine_rifle@fidgets@a"
+            },
+
+            "Aiming 2": {
+                "animation":"0",
+                "dictionary":"combat@gestures@rifle@beckon"
+            },
+
+            "Aiming 3": {
+                "animation":"0",
+                "dictionary":"combat@gestures@rifle@glances"
+            },
+            
+            "Aiming 4": {
+                "animation":"180",
+                "dictionary":"combat@gestures@rifle@panic"
+            },
+
+            "Hold a gun 1": {
+                "animation":"idle",
+                "dictionary":"move_weapon@pistol@copc"
+            },
+
+            "Hold a gun 2": {
+                "animation":"idle",
+                "dictionary":"move_weapon@pistol@cope"
+            }
+        },
+
+        "Misc": {
+            "Show middle finger": {
+                "animation":"flip_off_b_1st",
+                "dictionary":"anim@arena@celeb@podium@no_prop@"
+            },
+
+            "Open Door":{
+                "animation":"stairs_opendoor_michael",
+                "dictionary":"missheistfbi3b_ig5"
+            },
+
+            "Walk out with a gun 1": {
+                "animation":"exit_van_tobank_gunman",
+                "dictionary":"missheistpaletoscore2ig_8"
+            },
+
+            "Walk out with a gun 2": {
+                "animation":"exit_van_tobank_player2",
+                "dictionary":"missheistpaletoscore2ig_8"
+            },
+
+            "Intro Scared": {
+                "animation":"intro_ped_e",
+                "dictionary":"anim@heists@fleeca_bank@hostages@intro"
+            },
+
+            "Player Using Syringe": {
+                "animation":"syringe_use_player",
+                "dictionary":"missfbi3_syringe"
+            },
+
+            "Player Syringe Idle": {
+                "animation":"syringe_idle_player",
+                "dictionary":"missfbi3_syringe"
+            },
+
+            "Player Kicks Chair": {
+                "animation":"waterboard_kick_player",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Player Waiting To Waterboard 1": {
+                "animation":"waterboard_idle_player",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Player Waiting To Waterboard 2": {
+                "animation":"waterboard_ready_loop_player",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Drinking coffee": {
+                "animation":"enter",
+                "dictionary":"amb@world_human_drinking@coffee@female@enter"
+            },
+
+            "Get up 1": {
+                "animation":"get_up_0_l",
+                "dictionary":"get_up@directional@movement@walk_starts"
+            },
+
+            "Get up 2": {
+                "animation":"exit",
+                "dictionary":"amb@medic@standing@kneel@exit"
+            },
+
+            "Walk 1": {
+                "animation":"walk",
+                "dictionary":"missarmenian3_gardener"
+            },
+
+            "Walk 2": {
+                "animation":"walk",
+                "dictionary":"move_p_m_one"
+            },
+
+            "CPR": {
+                "animation":"cpr_pumpchest_idle",
+                "dictionary":"mini@cpr@char_a@cpr_def"
+            },
+
+            "CPR Fail": {
+                "animation":"cpr_fail",
+                "dictionary":"mini@cpr@char_a@cpr_str"
+            },
+
+            "Lean": {
+                "animation":"ext_t14_leaning_loop",
+                "dictionary":"missfbi1"
+            },
+
+            "Look back": {
+                "animation":"reaction_backward_big_intro_c",
+                "dictionary":"reaction@male_stand@big_intro@backward"
+            },
+
+            "Butthump": {
+                "animation":"skull_loving_bear", 
+                "dictionary":"timetable@trevor@skull_loving_bear"
+            },
+
+            "Wiggle": { 
+                "animation":"ld_2g_intro_s2",
+                "dictionary":"mini@strip_club@lap_dance_2g@ld_2g_intro"
+            },    
+
+            "Yoga 1": {
+                "animation":"base_a",
+                "dictionary":"amb@world_human_yoga@female@base"
+            },
+
+            "Yoga 2": {
+                "animation":"base_b",
+                "dictionary":"amb@world_human_yoga@female@base"
+            },
+
+            "Yoga 3": {
+                "animation":"base_c",
+                "dictionary":"amb@world_human_yoga@female@base"
+            },
+
+            "Yoga 4": {
+                "animation":"base",
+                "dictionary":"amb@world_human_yoga@male@base"
+            },
+
+            "Yoga 5": {
+                "animation":"base_a",
+                "dictionary":"amb@world_human_yoga@male@base"
+            },
+
+            "Yoga 6": {
+                "animation":"base_b",
+                "dictionary":"amb@world_human_yoga@male@base"
+            },
+
+            "Yoga 7": {
+                "animation":"ig_4_idle",
+                "dictionary":"timetable@amanda@ig_4"
+            },
+
+            "Peeing": {
+                "animation":"peeing_loop", 
+                "dictionary":"misscarsteal2peeing"
+            },
+            
+            "Bump and Grind": {
+                "animation":"mini_strip_club_private_dance_idle_priv_dance_idle", 
+                "dictionary":"anim@amb@nightclub@peds@"
+            },
+
+            "Car Sex": {
+                "animation":"sex_loop_prostitute", 
+                "dictionary":"anim@mini@prostitutes@sex@veh_vstr@"
+            },
+
+            "Jerk Off": {
+                "animation":"trev_jerking_off_loop", 
+                "dictionary":"switch@trevor@jerking_off"
+            },
+
+            "Mime 1": {
+                "animation":"08_ig_1_wall_ba_0",
+                "dictionary":"special_ped@mime@monologue_8@monologue_8a"
+            },
+
+            "Mime 2": {
+                "animation":"11_ig_1_run_aw_0",
+                "dictionary":"special_ped@mime@monologue_7@monologue_7a"
+            },
+
+            "Shove 1": {
+                "animation":"shove_var_a",
+                "dictionary":"reaction@shove"
+            },
+
+            "Shove 2": {
+                "animation":"shove_var_b",
+                "dictionary":"reaction@shove"
+            },
+
+            "Shove 3": {
+                "animation":"shove_var_c",
+                "dictionary":"reaction@shove"
+            },
+
+            "Blowjob": {
+                "animation":"pimpsex_hooker", 
+                "dictionary":"misscarsteal2pimpsex"
+            },
+
+            "Blowjob in Car": { 
+                "animation":"bj_loop_prostitute", 
+                "dictionary":"anim@mini@prostitutes@sex@veh_vstr@"
+            },
+
+            "Shag Male": { 
+                "animation":"shag_loop_a", 
+                "dictionary":"rcmpaparazzo_2"
+            },
+
+            "Shag Female": { 
+                "animation":"shag_loop_poppy", 
+                "dictionary":"rcmpaparazzo_2"
+            },
+
+            "Shag Hooker": {
+                "animation":"shagloop_hooker", 
+                "dictionary":"misscarsteal2pimpsex"
+            },
+
+            "Shag Pimp": {
+                "animation":"shagloop_pimp", 
+                "dictionary":"misscarsteal2pimpsex"
+            },
+            
+            "Wipe Off Dirt": {
+                "animation":"dustoff",
+                "dictionary":"reaction@shake_it_off@"
+            },
+
+            "Zombie Waiting": {
+                "animation":"base",
+                "dictionary":"special_ped@zombie@base"
+            },
+
+            "Victim Waterboarded": {
+                "animation":"waterboard_loop_victim",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Player Waterboarding Victim": {
+                "animation":"waterboard_loop_player",
+                "dictionary":"missfbi3_waterboard"
+            },
+
+            "Player Electrocuting Victim": {
+                "animation":"electrocute_both_loop_player",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Player Sparking Victim": {
+                "animation":"electrocute_spark_player",
+                "dictionary":"missfbi3_electrocute"
+            },
+
+            "Shower 1": {
+                "animation":"shower_idle_a",
+                "dictionary":"mp_safehouseshower@female@"
+            },
+
+            "Shower 2": {
+                "animation":"male_shower_idle_a",
+                "dictionary":"mp_safehouseshower@male@"
+            },
+
+            "Shake Your Ass": { 
+                "animation":"001443_01_trvs_28_idle_stripper", 
+                "dictionary":"switch@trevor@mocks_lapdance"
+            },
+
+            "Player Weakly Pulling Teeth": {
+                "animation":"pull_tooth_loop_weak_player",
+                "dictionary":"missfbi3_toothpull"
+            },
+          
+            "All Fours": { 
+                "animation":"wakeup_loop", 
+                "dictionary":"random@peyote@dog"
+            },
+
+            "Flex 1": {
+                "animation":"base",
+                "dictionary":"amb@world_human_muscle_flex@arms_at_side@base"
+            },
+
+            "Flex 2": {
+                "animation":"base",
+                "dictionary":"amb@world_human_muscle_flex@arms_in_front@base"
+            },
+
+            "Flex 3": {
+                "animation":"base",
+                "dictionary":"amb@prop_human_muscle_chin_ups@male@base"
+            },
+
+            "Push Ups": {
+                "animation":"base",
+                "dictionary":"amb@world_human_push_ups@male@base"
+            },
+
+            "Humping Air": { 
+                "animation":"cs_tracydisanto_dual-14", 
+                "dictionary":"family_4_mcs_2-14"
+            },
+
+            "Whatever Homie": {
+                "animation":"gang_taunt_loop_lamar",
+                "dictionary":"switch@franklin@gang_taunt_p1"
+            },
+
+            "Bent Over": {
+                "animation":"002055_01_trvs_17_naked_on_bridge_idle", 
+                "dictionary":"switch@trevor@naked_on_bridge"
+            },
+
+            "Player Waiting To Pull Teeth 1": {
+                "animation":"pull_tooth_idle_player",
+                "dictionary":"missfbi3_toothpull"
+            },
+
+            "Player Waiting To Pull Teeth 2": {
+                "animation":"pull_tooth_ready_loop_player",
+                "dictionary":"missfbi3_toothpull"
+            },
+
+            "Player Pulling Teeth": {
+                "animation":"pull_tooth_loop_player",
+                "dictionary":"missfbi3_toothpull"
+            },
+
+            "Toss Money": {
+                "animation":"toss_many_player",
+                "dictionary":"mini@strip_club@leaning@toss_many"
+            },
+
+            "\"Nothing to see here\"": {
+                "animation":"nothing_to_see_here_stretch",
+                "dictionary":"timetable@lamar@ig_4"
+            },
+
+            "Arrival": {
+                "animation":"trevor_arrival_2",
+                "dictionary":"missheistpaletoscoresetup"
+            },
+
+            "Charm": {
+                "animation":"charm",
+                "dictionary":"anim@heists@ornate_bank@chat_manager"
+            },
+
+            "Injured ped 1": {
+                "animation":"injured_drag_ped",
+                "dictionary":"combat@drag_ped@"
+            },
+
+            "Injured ped 2": {
+                "animation":"injured_drag_plyr",
+                "dictionary":"combat@drag_ped@"
+            },
+
+            "Injured 1": {
+                "animation":"player_zero_dual-4",
+                "dictionary":"pro_mcs_6_p2_alt1-4"
+            },
+
+            "Injured 2": {
+                "animation":"player_zero_dual-2",
+                "dictionary":"pro_mcs_6_p2_alt1-2"
+            },
+
+            "Injured 3": {
+                "animation":"cs_brad_dual-2",
+                "dictionary":"pro_mcs_6_p2_alt1-2"
+            },
+
+            "Jump out 1": {
+                "animation":"jump_out",
+                "dictionary":"veh@van@side_fps"
+            },
+
+            "Jump out 2": {
+                "animation":"react_blown_backwards",
+                "dictionary":"explosions"
+            },
+
+            "Work": {
+                "animation":"work2_base",
+                "dictionary":"missmechanic"
+            },
+
+            "Mechanic fix": {
+                "animation":"mp_mech_fix",
+                "dictionary":"mp_intro_seq@"
+            },
+
+            "Knock door": {
+                "animation":"knockdoor_idle",
+                "dictionary":"timetable@jimmy@doorknock@"
+            },
+
+            "Clean": {
+                "animation":"idle_b",
+                "dictionary":"timetable@floyd@clean_kitchen@idle_a"
+            },
+
+            "Arms out": {
+                "animation":"mp_m_freemode_01_dual-0",
+                "dictionary":"hs3f_int1-0"
+            },
+
+            "Pull up": {
+                "animation":"001942_02_gc_fras_ig_5_base",
+                "dictionary":"switch@franklin@gym"
+            }
+
+
+        }
+    },
+
+    "Walk Animation": {
+        "Sexy": { "animation": "move_f@sexy@a"},
+        "Scared": { "animation": "move_f@scared"},
+        "Injured": { "animation": "move_injured_generic"},
+        "JOG": { "animation": "move_m@JOG@"},
+        "Tough Guy 1": { "animation": "MOVE_M@TOUGH_GUY@"},
+        "Tough Guy 2": { "animation": "MOVE_F@TOUGH_GUY@"},
+        "Femme 1": { "animation": "MOVE_M@FEMME@"},
+        "Femme 2": { "animation": "MOVE_F@FEMME@"},
+        "Flee": { "animation": "move_f@flee@a"},
+        "Lester 1": { "animation": "move_heist_lester"},
+        "Lester 2": { "animation": "move_lester_CaneUp"},
+        "Drunk 1": { "animation": "move_m@drunk@moderatedrunk"},
+        "Drunk 2": { "animation": "MOVE_M@DRUNK@MODERATEDRUNK"},
+        "Drunk 3": { "animation": "MOVE_M@DRUNK@MODERATEDRUNK_HEAD_UP"},
+        "Drunk 4": { "animation": "MOVE_M@DRUNK@SLIGHTLYDRUNK"},
+        "Drunk 5": { "animation": "MOVE_M@DRUNK@VERYDRUNK"}, 
+        "Gangster": {"animation": "move_m@gangster@var_i"}
+    },
+
+    "All Animations": {
+        "A": {
+            "animation":"animation",
+            "dictionary":"dictionary"
+        }
+    }
+}

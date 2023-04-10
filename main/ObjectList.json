@@ -1,0 +1,159 @@
+{   
+    "Object List Version":["v1.1"],
+    "Basic Object List": ["Stunt Track", "Race Buildings", "Containers", "Ramps"],
+    "Basic Object":[
+        {
+            "Track Start Grid 16":["stt_prop_track_start"], "Track Start Grid 30":["stt_prop_track_start_02"], "Start Line 01":["stt_prop_race_start_line_01"], "Start Line 01 (30)":["stt_prop_race_start_line_01b"], 
+            "Start Line 02":["sr_prop_sr_start_line_02"], "Start Line 02 (30)":["stt_prop_race_start_line_02b"], "Start Line 03":["stt_prop_race_start_line_03"], "Start Line 03 (30)":["stt_prop_race_start_line_03b"], 
+            "Pit Stop Left (16)":["sum_prop_ac_track_pit_stop_16l"], "Pit Stop Right (16)":["sum_prop_ac_track_pit_stop_16r"], "Pit Stop Left (30)":["sum_prop_ac_track_pit_stop_30l"], "Pit Stop Right (30)":["sum_prop_ac_track_pit_stop_30r"], 
+            "Track Straight Short":["stt_prop_track_straight_s"], "Track Straight Medium":["stt_prop_track_straight_m"], "Track Straight Medium-Large":["ba_prop_track_straight_lm"], "Track Straight Large":["stt_prop_track_straight_l"], 
+            "Track Large Pit Stop":["sum_prop_ac_track_pit_stop_01"], "Track Bend Medium":["stt_prop_track_bend_m"], "Track Bend Large":["ba_prop_track_bend_l_b"], "Track Bend XL":["stt_prop_track_bend2_l_b"], 
+            "Track Bend 5D":["stt_prop_track_bend_5d"], "Track Bend 15D":["stt_prop_track_bend_15d"], "Track Bend 30D":["stt_prop_track_bend_30d"], "Track Bend 45D":["sum_prop_track_ac_bend_45"], 
+            "Track Bend 90D Tight":["sum_prop_track_ac_bend_lc"], "Track Bend 135D":["sum_prop_track_ac_bend_135"], "Track Bend 180D":["stt_prop_track_bend_180d"], "Track Bend 180D Hairpin":["sum_prop_track_ac_bend_180d"],
+            "Track Fork":["stt_prop_track_fork"], "Track Cross":["stt_prop_track_cross"], "Track Link":["stt_prop_track_link"], "Chicane Left":["stt_prop_track_chicane_l"], 
+            "Chicane Left Small":["stt_prop_track_chicane_l_02"], "Chicane Right":["stt_prop_track_chicane_r"], "Chicane Right Small":["stt_prop_track_chicane_r_02"], "Track Obstacle Tire Gap":["stt_prop_track_block_03"], 
+            "Track Down 5":["sr_prop_track_straight_l_d5"], "Track Down 15":["sr_prop_track_straight_l_d15"], "Track Down 30":["sr_prop_track_straight_l_d30"], "Track Down 45":["sr_prop_track_straight_l_d45"],
+            "Track Up 5":["sr_prop_track_straight_l_u5"], "Track Up 15":["sr_prop_track_straight_l_u15"], "Track Up 30":["sr_prop_track_straight_l_u30"], "Track Up 45":["sr_prop_track_straight_l_u45"]
+        },
+
+        {
+            "Track Garage Single":["sum_prop_track_pit_garage_05a"], "Track Garage Double":["sum_prop_track_pit_garage_04a"], "Track Garage Quad":["sum_prop_track_pit_garage_03a"], "Track Garage Medium":["sum_prop_track_pit_garage_02a"],
+            "Track Paddock":["sum_prop_ac_track_paddock_01"], "Track Garage Large":["sum_prop_ac_pit_garage_01a"], "Grandstand":["sum_prop_ac_grandstand_01a"]
+        },
+
+        {
+            "Empty Container":["prop_rub_cont_01b"], "Open Yellow Carriage":["prop_rail_boxcar4"], "Open Brown Carriage":["prop_rub_railwreck_2"], "Small Closed Container":["prop_contr_03b_ld"],
+            "Large Closed Container":["prop_container_ld2"], "Closed Yellow Carriage":["prop_rail_boxcar"], "Closed Brown Carriage":["prop_rail_boxcar3"], "Long Green Container":["prop_container_01mb"],
+            "Short Green Container":["prop_container_03mb"], "Small Red Container":["sm_prop_smug_cont_01a"]
+        },
+
+        {
+            "Small Ramp":["lts_prop_lts_ramp_01"], "Small Dumpster Ramp":["prop_skip_04"], "Medium Ramp":["lts_prop_lts_ramp_02"], "Large Ramp":["lts_prop_lts_ramp_03"],
+            "Large Dumpster Ramp":["prop_skip_08a"], "Medium Dumpster Ramp":["prop_skip_03"], "Water Ramp":["ar_prop_ar_jetski_ramp_01_dev"], "Old Wooden Ramp":["prop_byard_rampold_cr"],
+        }
+    ],
+
+    "Arena War Object List":["Traps Apocalypse", "Traps Future Shock", "Traps Nightmare", "Apocalypse", "Future Shock", "Nightmare", "Ramps", "Dynamic", "Misc"],
+    "Arena War Object":[
+        {
+            "Fire Pit":["xs_prop_arena_pit_fire_01a"], "Fire Pit (Small)":["xs_prop_arena_pit_fire_02a"], "Fire Pit (Long)":["xs_prop_arena_pit_fire_03a"], "Fire Pit (XL)":["xs_prop_arena_pit_fire_04a"], "Flipper (Small)":["xs_prop_arena_flipper_small_01a"],
+            "Flipper (Large)":["xs_prop_arena_flipper_large_01a"], "Flipper (XL)":["xs_prop_arena_flipper_xl_01a"], "Animated Wall A ":["xs_prop_arena_bollard_rising_01a"], "Animated Wall XL ":["xs_prop_arena_bollard_rising_01b"], "Side Bollards":["xs_prop_arena_bollard_side_01a"],
+            "Double Pit B":["xs_prop_arena_pit_double_01b"], "Proximity Mine":["xs_prop_arena_landmine_01a"], "Barrel Bomb":["xs_prop_arena_barrel_01a"], "Sea Mine":["xs_prop_arena_landmine_03a"], "Proximity Mine (XL)":["xs_prop_arena_landmine_01c"],
+            "Turntable A":["xs_prop_arena_turntable_01a"], "Turntable B":["xs_prop_arena_turntable_02a"], "Turntable C":["xs_prop_arena_turntable_03a"], "Animated Wall A":["xs_prop_arena_wall_rising_01a"], "Animated Wall XL":["xs_prop_arena_wall_rising_02a"]
+        },
+
+        {
+            "Fire Pit":["xs_prop_arena_pit_fire_01a_sf"], "Fire Pit (Small)":["xs_prop_arena_pit_fire_02a_sf"], "Fire Pit (Long)":["xs_prop_arena_pit_fire_03a_sf"], "Fire Pit (XL)":["xs_prop_arena_pit_fire_04a_sf"], "Flipper (Small)":["xs_prop_arena_flipper_small_01a_sf"],
+            "Flipper (Large)":["xs_prop_arena_flipper_large_01a_sf"], "Flipper (XL)":["xs_prop_arena_flipper_xl_01a_sf"], "Bollard":["xs_prop_arena_bollard_rising_01a_sf"], "Bollard Row":["xs_prop_arena_bollard_rising_01b_sf"], "Side Bollards":["xs_prop_arena_bollard_side_01a_sf"],
+            "Double Pit B":["xs_prop_arena_pit_double_01b_sf"], "Landmine (Future Shock)":["xs_prop_arena_landmine_01c_sf"], "Barrel Bomb":["xs_prop_arena_barrel_01a_sf"], "Sea Mine":["xs_prop_arena_landmine_03a_sf"], "Turntable A":["xs_prop_arena_turntable_01a_sf"],
+            "Turntable B":["vw_prop_arena_turntable_02f_sf"], "Turntable C":["xs_prop_arena_turntable_03a_sf"], "Animated Wall A":["xs_prop_arena_wall_rising_01a_sf"], "Animated Wall XL":["xs_prop_arena_wall_rising_02a_sf"]
+        },
+
+        {
+            "Fire Pit":["xs_prop_arena_pit_fire_01a_wl"], "Fire Pit (Small)":["xs_prop_arena_pit_fire_02a_wl"], "Fire Pit (Long)":["xs_prop_arena_pit_fire_03a_wl"], "Fire Pit (XL)":["xs_prop_arena_pit_fire_04a_wl"], "Flipper (Small)":["xs_prop_arena_flipper_small_01a_wl"],
+            "Flipper (Large)":["xs_prop_arena_flipper_large_01a_wl"], "Flipper (XL)":["xs_prop_arena_flipper_xl_01a_wl"], "Bollard":["xs_prop_arena_bollard_rising_01a_wl"], "Bollard Row":["xs_prop_arena_bollard_rising_01b_wl"], "Side Bollards":["xs_prop_arena_bollard_side_01a_wl"],
+            "Double Pit B":["xs_prop_arena_pit_double_01b_wl"], "Landmine (Nightmare)":["xs_prop_arena_landmine_01c_wl"], "Barrel Bomb":["xs_prop_arena_barrel_01a_wl"], "Sea Mine":["xs_prop_arena_landmine_03a_wl"], "Turntable A":["xs_prop_arena_turntable_01a_wl"],
+            "Turntable B":["xs_prop_arena_turntable_02a_wl"], "Turntable C":["xs_prop_arena_turntable_03a_wl"], "Animated Wall A":["xs_prop_arena_wall_rising_01a_wl"], "Animated Wall XL":["xs_prop_arena_wall_rising_02a_wl"]
+        },
+
+        {
+            "Trap Pressure Pad":["xs_prop_arena_pressure_plate_01a"], "Car Wall A":["xs_prop_arena_car_wall_01a"], "Car Wall B":["xs_prop_arena_car_wall_02a"], "Car Wall C":["xs_prop_arena_car_wall_03a"],
+            "Building A":["xs_prop_arena_station_01a"], "Building B":["xs_prop_arena_station_02a"], "Wedge":["xs_prop_arena_wedge_01a"], "Oil Jack Burning":["xs_prop_arena_oil_jack_01a"],
+            "Oil Jack Derelict":["xs_prop_arena_oil_jack_02a"], "Arena Wall A":["xs_prop_arena_wall_01c"], "Arena Wall B":["xs_prop_arena_wall_01b"], "Arena Wall C":["xs_prop_arena_wall_01a"],
+            "Apocalypse Building":["xs_prop_arena_building_01a"], "Industrial Complex A":["xs_prop_arena_industrial_a"], "Industrial Complex B":["xs_prop_arena_industrial_b"], "Industrial Complex C":["xs_prop_arena_industrial_c"],
+            "Industrial Complex D":["xs_prop_arena_industrial_d"], "Industrial Complex E":["xs_prop_arena_industrial_e"], "Metal Frame A":["xs_prop_arena_1bay_01a"], "Metal Frame B":["xs_prop_arena_2bay_01a"],
+            "Metal Frame C":["xs_prop_arena_3bay_01a"], "Large Goal":["xs_prop_arena_goal"], "Arena Archway":["xs_prop_arena_gate_01a"], "Pole":["xs_prop_arena_tower_01a"],
+            "Water Tower":["xs_prop_arena_tower_02a"], "Start Gate":["xs_prop_arena_startgate_01a"], "Arrow":["xs_prop_arena_arrow_01a"], "Wall":["xs_prop_arena_wall_02a"],
+            "Comms Tower":["xs_prop_arena_tower_04a"], "Tire Wall":["xs_prop_wall_tyre_01a"], "Tire Wall Curved":["xs_prop_wall_tyre_l_01a"], "Tire Wall Start":["xs_prop_wall_tyre_start_01a"],
+            "Tire Wall End":["xs_prop_wall_tyre_end_01a"], "Arrow Tires A":["xs_prop_arrow_tyre_01a"], "Arrow Tires B":["xs_prop_arrow_tyre_01b"], "Pipe Track A":["xs_prop_arena_pipe_track_c_01a"],
+            "Pipe Track B":["xs_prop_arena_pipe_track_c_01b"], "Pipe Track C":["xs_prop_arena_pipe_track_c_01c"], "Pipe Track D":["xs_prop_arena_pipe_track_c_01d"], "Pipe Track E":["xs_prop_arena_pipe_track_s_01a"],
+            "Pipe Track F":["xs_prop_arena_pipe_track_s_01b"], "Pipe Bend 1A":["xs_prop_arena_pipe_bend_01a"], "Pipe Bend 1B":["xs_prop_arena_pipe_bend_01b"], "Pipe Bend 1C":["xs_prop_arena_pipe_bend_01c"],
+            "Pipe Bend 2A":["xs_prop_arena_pipe_bend_02a"], "Pipe Bend 2B":["xs_prop_arena_pipe_bend_02b"], "Pipe Bend 2C":["xs_prop_arena_pipe_bend_02c"], "Pipe End 1A":["xs_prop_arena_pipe_end_01a"],
+            "Pipe End 2A":["xs_prop_arena_pipe_end_02a"], "Pipe Machine 1A":["xs_prop_arena_pipe_machine_01a"], "Pipe Machine 2A":["xs_prop_arena_pipe_machine_02a"], "Straight Pipe 1A":["xs_prop_arena_pipe_straight_01a"],
+            "Straight Pipe 1B":["xs_prop_arena_pipe_straight_01b"], "Straight Pipe 2A":["xs_prop_arena_pipe_straight_02a"], "Straight Pipe 2B":["xs_prop_arena_pipe_straight_02b"], "Straight Pipe 2C":["xs_prop_arena_pipe_straight_02c"],
+            "Straight Pipe 2D":["xs_prop_arena_pipe_straight_02d"], "Transition Pipe 1A":["xs_prop_arena_pipe_transition_01a"], "Transition Pipe 1B":["xs_prop_arena_pipe_transition_01b"], "Transition Pipe 1C":["xs_prop_arena_pipe_transition_01c"],
+            "Transition Pipe 2A":["xs_prop_arena_pipe_transition_02a"], "Transition Pipe 2B":["xs_prop_arena_pipe_transition_02b"], "Barrier (5m)":["xs_prop_barrier_5m_01a"], "Barrier (10m)":["xs_prop_barrier_10m_01a"],
+            "Barrier (15m)":["xs_prop_barrier_15m_01a"], "Tunnel":["xs_prop_ar_tunnel_01a"], "Tire Spikes":["xs_prop_arena_spikes_01a"]
+        },
+
+        {
+            "Trap Pressure Pad":["xs_prop_arena_pressure_plate_01a_sf"], "Wedge":["xs_prop_arena_wedge_01a_sf"], "Large Goal (Future Shock)":["xs_prop_arena_goal_sf"], "Arena Wall":["xs_prop_arena_wall_02a_sf"], "Arrow Tires A":["xs_prop_arrow_tyre_01a_sf"], "Arrow Tires B":["xs_prop_arrow_tyre_01b_sf"],
+            "Arrow":["xs_prop_arena_arrow_01a_sf"], "Start Gate":["xs_prop_arena_startgate_01a_sf"], "Planter 45 (Small)":["xs_prop_ar_planter_s_45a_sf"], "Planter 90 (Small)":["xs_prop_ar_planter_s_90a_sf"], "Planter 180 (Small)":["xs_prop_ar_planter_s_180a_sf"], "Planter 30 (Medium) A":["xs_prop_ar_planter_m_30a_sf"],
+            "Planter 30 (Medium) B":["xs_prop_ar_planter_m_30b_sf"], "Planter 60 (Medium) A":["xs_prop_ar_planter_m_60a_sf"], "Planter 60 (Medium) B":["xs_prop_ar_planter_m_60b_sf"], "Planter 90 (Medium)":["xs_prop_ar_planter_m_90a_sf"], "Tower":["xs_prop_ar_tower_01a_sf"], "Pipe Connector":["xs_prop_ar_pipe_conn_01a_sf"],
+            "Stand":["xs_prop_ar_stand_thick_01a_sf"], "Pipe":["xs_prop_ar_pipe_01a_sf"], "Gate":["xs_prop_ar_gate_01a_sf"], "Planter (XL)":["xs_prop_ar_planter_xl_01a_sf"], "Planter (Medium)":["xs_prop_ar_planter_m_01a_sf"], "Planter (Small)":["xs_prop_ar_planter_s_01a_sf"],
+            "Planter Corner A":["xs_prop_ar_planter_c_01a_sf"], "Planter Corner B":["xs_prop_ar_planter_c_02a_sf"], "Planter Corner C":["xs_prop_ar_planter_c_03a_sf"], "Building X":["xs_prop_ar_buildingx_01a_sf"], "Tunnel":["xs_prop_ar_tunnel_01a_sf"], "Tire Spikes (Future Shock)":["xs_prop_arena_spikes_01a_sf"]
+        },
+
+        {
+            "Trap Pressure Pad":["xs_prop_arena_pressure_plate_01a_wl"], "Wedge":["xs_prop_arena_wedge_01a_wl"], "Arena Wall A":["xs_prop_arena_wall_02a_wl"], "Arrow Tires A":["xs_prop_arrow_tyre_01a_wl"], "Arrow Tires B":["xs_prop_arrow_tyre_01b_wl"], "Arrow":["xs_prop_arena_arrow_01a_wl"],
+            "Tunnel":["xs_prop_ar_tunnel_01a_wl"], "LPlate A":["xs_prop_lplate_01a_wl"], "LPlate Bend":["xs_prop_lplate_bend_01a_wl"], "LPlate Wall A":["xs_prop_lplate_wall_01a_wl"], "LPlate Wall B":["xs_prop_lplate_wall_01b_wl"], "LPlate Wall C":["xs_prop_lplate_wall_01c_wl"],
+            "Beer Bottle":["xs_prop_beer_bottle_wl"], "Burger Meat":["xs_prop_burger_meat_wl"], "Can Tunnel":["xs_prop_can_tunnel_wl"], "Can":["xs_prop_can_wl"], "Chips Tube":["xs_prop_chips_tube_wl"], "Chopstick":["xs_prop_chopstick_wl"], "Tire Gate":["xs_prop_gate_tyre_01a_wl"],
+            "Cheeseburger":["xs_prop_hamburgher_wl"], "Nacho":["xs_prop_nacho_wl"]
+        },
+
+        {
+            "Extra Small Ramp (Apocalypse)":["xs_prop_arena_jump_xs_01a"], "Small Ramp (Apocalypse)":["xs_prop_arena_jump_s_01a"], "Medium Ramp (Apocalypse)":["xs_prop_arena_jump_m_01a"], "Large Ramp (Apocalypse)":["xs_prop_arena_jump_l_01a"], "Extra Large Ramp (Apocalypse)":["xs_prop_arena_jump_xl_01a"], "XXL Ramp (Apocalypse)":["xs_prop_arena_jump_xxl_01a"],
+            "Half-Loop Ramp (Apocalypse)":["xs_prop_arena_adj_hloop"], "Jump Ramp (Apocalypse)":["xs_prop_arena_jump_02b"], "Pipe Ramp (Apocalypse)":["xs_prop_arena_pipe_ramp_01a"], "Extra Small Ramp (Future Shock)":["xs_prop_arena_jump_xs_01a_sf"], "Small Ramp (Future Shock)":["xs_prop_arena_jump_s_01a_sf"], "Medium Ramp (Future Shock)":["xs_prop_arena_jump_m_01a_sf"],
+            "Large Ramp (Future Shock)":["xs_prop_arena_jump_l_01a_sf"], "Extra Large Ramp (Future Shock)":["xs_prop_arena_jump_xl_01a_sf"], "XXL Ramp (Future Shock)":["xs_prop_arena_jump_xxl_01a_sf"], "Half-Loop Ramp (Future Shock)":["xs_prop_arena_adj_hloop_sf"], "Extra Small Ramp (Nightmare)":["xs_prop_arena_jump_xs_01a_wl"], "Small Ramp (Nightmare)":["xs_prop_arena_jump_s_01a_wl"],
+            "Medium Ramp (Nightmare)":["xs_prop_arena_jump_m_01a_wl"], "Large Ramp (Nightmare)":["xs_prop_arena_jump_l_01a_wl"], "Extra Large Ramp (Nightmare)":["xs_prop_arena_jump_xl_01a_wl"], "XXL Ramp (Nightmare)":["xs_prop_arena_jump_xxl_01a_wl"], "Half-Loop Ramp (Nightmare)":["xs_prop_arena_adj_hloop_wl"]
+        },
+
+        {
+            "Destructible Fence (Apocalypse)":["xs_prop_arena_fence_01a"], "Destructible Fence (Future Shock)":["xs_prop_arena_fence_01a_sf"], "Destructible Fence (Nightmare)":["xs_prop_arena_fence_01a_wl"]
+        },
+
+        {
+            "Gun Tower (Apocalypse)":["xs_prop_arena_turret_01a"], "Gun Tower (Future Shock)":["xs_prop_arena_turret_01a_sf"], "Gun Tower (Nightmare)":["xs_prop_arena_turret_01a_wl"], "Ground Finish Line":["xs_prop_arena_finish_line"]
+        }
+    ],
+
+    "Custom Object List":["object_prop_yacht", "object_prop_unsorted_skate", "object_prop_unsorted_carrier", "object_prop_lamp"],
+    "Custom Object":[
+        {
+            "apa_mp_h_yacht_table_lamp_03":["apa_mp_h_yacht_table_lamp_03"], "apa_mp_h_yacht_table_lamp_02":["apa_mp_h_yacht_table_lamp_02"], "apa_mp_h_yacht_table_lamp_01":["apa_mp_h_yacht_table_lamp_01"], "apa_mp_h_yacht_strip_chair_01":["apa_mp_h_yacht_strip_chair_01"],
+            "apa_mp_h_yacht_stool_01":["apa_mp_h_yacht_stool_01"], "apa_mp_h_yacht_sofa_02":["apa_mp_h_yacht_sofa_02"], "apa_mp_h_yacht_sofa_01":["apa_mp_h_yacht_sofa_01"], "apa_mp_h_yacht_side_table_02":["apa_mp_h_yacht_side_table_02"], "apa_mp_h_yacht_side_table_01":["apa_mp_h_yacht_side_table_01"],
+            "apa_mp_h_yacht_floor_lamp_01":["apa_mp_h_yacht_floor_lamp_01"], "apa_mp_h_yacht_coffee_table_02":["apa_mp_h_yacht_coffee_table_02"], "apa_mp_h_yacht_coffee_table_01":["apa_mp_h_yacht_coffee_table_01"], "apa_mp_h_yacht_bed_02":["apa_mp_h_yacht_bed_02"], "apa_mp_h_yacht_bed_01":["apa_mp_h_yacht_bed_01"],
+            "apa_mp_h_yacht_barstool_01":["apa_mp_h_yacht_barstool_01"], "apa_mp_h_yacht_armchair_04":["apa_mp_h_yacht_armchair_04"], "apa_mp_h_yacht_armchair_03":["apa_mp_h_yacht_armchair_03"], "apa_mp_h_yacht_armchair_01":["apa_mp_h_yacht_armchair_01"], "apa_mp_h_yacht_":["apa_mp_h_yacht_"],
+            "apa_mp_apa_yacht_win":["apa_mp_apa_yacht_win"], "apa_mp_apa_yacht_radar_01a":["apa_mp_apa_yacht_radar_01a"], "apa_mp_apa_yacht_jacuzzi_ripple2":["apa_mp_apa_yacht_jacuzzi_ripple2"], "apa_mp_apa_yacht_jacuzzi_ripple1":["apa_mp_apa_yacht_jacuzzi_ripple1"], "apa_mp_apa_yacht_jacuzzi_ripple003":["apa_mp_apa_yacht_jacuzzi_ripple003"],
+            "apa_mp_apa_yacht_jacuzzi_cam":["apa_mp_apa_yacht_jacuzzi_cam"], "apa_mp_apa_yacht_option3_cole":["apa_mp_apa_yacht_option3_cole"], "apa_mp_apa_yacht_option3_cold":["apa_mp_apa_yacht_option3_cold"], "apa_mp_apa_yacht_option3_colc":["apa_mp_apa_yacht_option3_colc"], "apa_mp_apa_yacht_option3_colb":["apa_mp_apa_yacht_option3_colb"],
+            "apa_mp_apa_yacht_option3_cola":["apa_mp_apa_yacht_option3_cola"], "apa_mp_apa_yacht_option3":["apa_mp_apa_yacht_option3"], "apa_mp_apa_yacht_option2_colb":["apa_mp_apa_yacht_option2_colb"], "apa_mp_apa_yacht_option2_cola":["apa_mp_apa_yacht_option2_cola"], "apa_mp_apa_yacht_option2":["apa_mp_apa_yacht_option2"],
+            "apa_mp_apa_yacht_option1_cola":["apa_mp_apa_yacht_option1_cola"], "apa_mp_apa_yacht_option1":["apa_mp_apa_yacht_option1"], "apa_mp_apa_yacht_o3_rail_b":["apa_mp_apa_yacht_o3_rail_b"], "apa_mp_apa_yacht_o3_rail_a":["apa_mp_apa_yacht_o3_rail_a"], "apa_mp_apa_yacht_o2_rail_b":["apa_mp_apa_yacht_o2_rail_b"],
+            "apa_mp_apa_yacht_o2_rail_a":["apa_mp_apa_yacht_o2_rail_a"], "apa_mp_apa_yacht_o1_rail_b":["apa_mp_apa_yacht_o1_rail_b"], "apa_mp_apa_yacht_o1_rail_a":["apa_mp_apa_yacht_o1_rail_a"], "apa_mp_apa_yacht_door2":["apa_mp_apa_yacht_door2"], "apa_mp_apa_yacht_door":["apa_mp_apa_yacht_door"], "apa_mp_apa_yacht":["apa_mp_apa_yacht"],
+            "apa_mp_apa_y3_l2d":["apa_mp_apa_y3_l2d"], "apa_mp_apa_y3_l2c":["apa_mp_apa_y3_l2c"], "apa_mp_apa_y3_l2b":["apa_mp_apa_y3_l2b"], "apa_mp_apa_y3_l2a":["apa_mp_apa_y3_l2a"], "apa_mp_apa_y3_l1d":["apa_mp_apa_y3_l1d"], "apa_mp_apa_y3_l1c":["apa_mp_apa_y3_l1c"], "apa_mp_apa_y3_l1b":["apa_mp_apa_y3_l1b"], "apa_mp_apa_y3_l1a":["apa_mp_apa_y3_l1a"],
+            "apa_mp_apa_y2_l2d":["apa_mp_apa_y2_l2d"], "apa_mp_apa_y2_l2c":["apa_mp_apa_y2_l2c"], "apa_mp_apa_y2_l2b":["apa_mp_apa_y2_l2b"], "apa_mp_apa_y2_l2a":["apa_mp_apa_y2_l2a"], "apa_mp_apa_y2_l1d":["apa_mp_apa_y2_l1d"], "apa_mp_apa_y2_l1c":["apa_mp_apa_y2_l1c"], "apa_mp_apa_y2_l1b":["apa_mp_apa_y2_l1b"], "apa_mp_apa_y2_l1a":["apa_mp_apa_y2_l1a"],
+            "apa_mp_apa_y1_l2d":["apa_mp_apa_y1_l2d"], "apa_mp_apa_y1_l2c":["apa_mp_apa_y1_l2c"], "apa_mp_apa_y1_l2b":["apa_mp_apa_y1_l2b"], "apa_mp_apa_y1_l2a":["apa_mp_apa_y1_l2a"], "apa_mp_apa_y1_l1d":["apa_mp_apa_y1_l1d"], "apa_mp_apa_y1_l1c":["apa_mp_apa_y1_l1c"], "apa_mp_apa_y1_l1b":["apa_mp_apa_y1_l1b"], "apa_mp_apa_y1_l1a":["apa_mp_apa_y1_l1a"]
+        },
+
+        {
+            "prop_skate_spiner_cr":["prop_skate_spiner_cr"], "prop_skate_spiner":["prop_skate_spiner"], "prop_skate_rail":["prop_skate_rail"], "prop_skate_quartpipe_cr":["prop_skate_quartpipe_cr"], "prop_skate_quartpipe":["prop_skate_quartpipe"], "prop_skate_kickers_cr":["prop_skate_kickers_cr"], "prop_skate_kickers":["prop_skate_kickers"],
+            "prop_skate_halfpipe_cr":["prop_skate_halfpipe_cr"], "prop_skate_halfpipe":["prop_skate_halfpipe"], "prop_skate_funbox_cr":["prop_skate_funbox_cr"], "prop_skate_funbox":["prop_skate_funbox"], "prop_skate_flatramp_cr":["prop_skate_flatramp_cr"], "prop_skate_flatramp":["prop_skate_flatramp"]
+        },
+
+        {
+            "v_ret_ps_carrier02":["v_ret_ps_carrier02"], "v_ret_ps_carrier01":["v_ret_ps_carrier01"], "prop_temp_carrier":["prop_temp_carrier"], "prop_carrier_bag_01_lod":["prop_carrier_bag_01_lod"], "prop_carrier_bag_01":["prop_carrier_bag_01"], "hei_prop_heist_carrierdoorl":["hei_prop_heist_carrierdoorl"], 
+            "hei_prop_heist_carrierdoorr":["hei_prop_heist_carrierdoorr"], "hei_prop_hei_carrier_disp_01":["hei_prop_hei_carrier_disp_01"], "hei_prop_carrier_trailer_01":["hei_prop_carrier_trailer_01"], "hei_prop_carrier_stair_01b":["hei_prop_carrier_stair_01b"], "hei_prop_carrier_stair_01a":["hei_prop_carrier_stair_01a"],
+            "hei_prop_carrier_radar_1_l1":["hei_prop_carrier_radar_1_l1"], "hei_prop_carrier_phone_02":["hei_prop_carrier_phone_02"], "hei_prop_carrier_phone_01":["hei_prop_carrier_phone_01"], "hei_prop_carrier_ord_01":["hei_prop_carrier_ord_01"], "hei_prop_carrier_jet":["hei_prop_carrier_jet"], "hei_prop_carrier_docklight_02":["hei_prop_carrier_docklight_02"],
+            "hei_prop_carrier_docklight_01":["hei_prop_carrier_docklight_01"], "hei_prop_carrier_crate_01b_s":["hei_prop_carrier_crate_01b_s"], "hei_prop_carrier_crate_01b":["hei_prop_carrier_crate_01b"], "hei_prop_carrier_crate_01a_s":["hei_prop_carrier_crate_01a_s"], "hei_prop_carrier_crate_01a":["hei_prop_carrier_crate_01a"],
+            "hei_prop_carrier_cargo_05b_s":["hei_prop_carrier_cargo_05b_s"], "hei_prop_carrier_cargo_05b":["hei_prop_carrier_cargo_05b"], "hei_prop_carrier_cargo_05a_s":["hei_prop_carrier_cargo_05a_s"], "hei_prop_carrier_cargo_05a":["hei_prop_carrier_cargo_05a"], "hei_prop_carrier_cargo_04c":["hei_prop_carrier_cargo_04c"],
+            "hei_prop_carrier_cargo_04b_s":["hei_prop_carrier_cargo_04b_s"], "hei_prop_carrier_cargo_04b":["hei_prop_carrier_cargo_04b"], "hei_prop_carrier_cargo_04a":["hei_prop_carrier_cargo_04a"], "hei_prop_carrier_cargo_02a":["hei_prop_carrier_cargo_02a"], "hei_prop_carrier_cargo_01a":["hei_prop_carrier_cargo_01a"], "hei_prop_carrier_bombs_1":["hei_prop_carrier_bombs_1"]
+        },
+
+        {
+            "prop_streetlight_16a":["prop_streetlight_16a"], "prop_streetlight_15a":["prop_streetlight_15a"], "prop_streetlight_14a":["prop_streetlight_14a"], "prop_streetlight_12b":["prop_streetlight_12b"], "prop_streetlight_12a":["prop_streetlight_12a"], "prop_streetlight_11c":["prop_streetlight_11c"], "prop_streetlight_11b":["prop_streetlight_11b"],
+            "prop_streetlight_11a":["prop_streetlight_11a"], "prop_streetlight_10":["prop_streetlight_10"], "prop_streetlight_09":["prop_streetlight_09"], "prop_streetlight_08":["prop_streetlight_08"], "prop_streetlight_07b":["prop_streetlight_07b"], "prop_streetlight_07a":["prop_streetlight_07a"], "prop_streetlight_06":["prop_streetlight_06"],
+            "prop_streetlight_05_b":["prop_streetlight_05_b"], "prop_streetlight_05":["prop_streetlight_05"], "prop_streetlight_04":["prop_streetlight_04"], "prop_streetlight_03e":["prop_streetlight_03e"], "prop_streetlight_03d":["prop_streetlight_03d"], "prop_streetlight_03c":["prop_streetlight_03c"], "prop_streetlight_03b":["prop_streetlight_03b"],
+            "prop_streetlight_03":["prop_streetlight_03"], "prop_streetlight_02":["prop_streetlight_02"], "prop_streetlight_01b":["prop_streetlight_01b"], "prop_streetlight_01":["prop_streetlight_01"], "prop_snow_wall_light_09a":["prop_snow_wall_light_09a"], "prop_snow_streetlight_09":["prop_snow_streetlight_09"], "prop_snow_streetlight_01_frag_":["prop_snow_streetlight_01_frag_"],
+            "prop_snow_streetlight01":["prop_snow_streetlight01"], "prop_ind_light_05":["prop_ind_light_05"], "prop_ind_light_04":["prop_ind_light_04"], "prop_ind_light_03c":["prop_ind_light_03c"], "prop_ind_light_03b":["prop_ind_light_03b"], "prop_ind_light_03a":["prop_ind_light_03a"], "prop_ind_light_02c":["prop_ind_light_02c"], "prop_ind_light_02b":["prop_ind_light_02b"],
+            "prop_ind_light_02a":["prop_ind_light_02a"], "xm_prop_base_wall_lampb":["xm_prop_base_wall_lampb"], "xm_prop_base_wall_lampa":["xm_prop_base_wall_lampa"], "xm_prop_base_tunnel_hang_lamp2":["xm_prop_base_tunnel_hang_lamp2"], "xm_prop_base_tunnel_hang_lamp":["xm_prop_base_tunnel_hang_lamp"], "xm_prop_base_tripod_lampc":["xm_prop_base_tripod_lampc"], "xm_prop_base_tripod_lampb":["xm_prop_base_tripod_lampb"],
+            "xm_prop_base_tripod_lampa":["xm_prop_base_tripod_lampa"], "xm_prop_base_tower_lampa":["xm_prop_base_tower_lampa"], "xm_prop_base_silo_lamp_01c":["xm_prop_base_silo_lamp_01c"], "xm_prop_base_silo_lamp_01b":["xm_prop_base_silo_lamp_01b"], "xm_prop_base_silo_lamp_01a":["xm_prop_base_silo_lamp_01a"], "xm_base_cia_lamp_floor_01b":["xm_base_cia_lamp_floor_01b"], "xm_base_cia_lamp_floor_01a":["xm_base_cia_lamp_floor_01a"],
+            "xm_base_cia_lamp_ceiling_02a":["xm_base_cia_lamp_ceiling_02a"], "xm_base_cia_lamp_ceiling_01b":["xm_base_cia_lamp_ceiling_01b"], "xm_base_cia_lamp_ceiling_01":["xm_base_cia_lamp_ceiling_01"], "sm_prop_smug_hangar_lamp_wall_b":["sm_prop_smug_hangar_lamp_wall_b"], "sm_prop_smug_hangar_lamp_wall_a":["sm_prop_smug_hangar_lamp_wall_a"], "sm_prop_smug_hangar_lamp_led_b":["sm_prop_smug_hangar_lamp_led_b"],
+            "sm_prop_smug_hangar_lamp_led_a":["sm_prop_smug_hangar_lamp_led_a"], "prop_chall_lamp_02":["prop_chall_lamp_02"], "prop_chall_lamp_01n":["prop_chall_lamp_01"], "prop_cd_lamp":["prop_cd_lamp"], "v_ilev_cd_lampal_off":["v_ilev_cd_lampal_off"], "v_ilev_cd_lampal":["v_ilev_cd_lampal"], "v_ilev_carmodlamps":["v_ilev_carmodlamps"], "v_ilev_carmod3lamp":["v_ilev_carmod3lamp"], "prop_spot_clamp_02":["prop_spot_clamp_02"],
+            "prop_spot_clamp":["prop_spot_clamp"], "prop_construcionlamp_01":["prop_construcionlamp_01"], "prop_chall_lamp_01":["prop_chall_lamp_01"], "hei_heist_lit_lamptable_06":["hei_heist_lit_lamptable_06"], "hei_heist_lit_lamptable_04":["hei_heist_lit_lamptable_04"], "hei_heist_lit_lamptable_03":["hei_heist_lit_lamptable_03"], "hei_heist_lit_lamptable_02":["hei_heist_lit_lamptable_02"], "hei_heist_lit_floorlamp_05":["hei_heist_lit_floorlamp_05"],
+            "hei_heist_lit_floorlamp_04":["hei_heist_lit_floorlamp_04"], "hei_heist_lit_floorlamp_03":["hei_heist_lit_floorlamp_03"], "hei_heist_lit_floorlamp_02":["hei_heist_lit_floorlamp_02"], "hei_heist_lit_floorlamp_01":["hei_heist_lit_floorlamp_01"]
+        },
+
+        {
+            "":[""], "":[""], "":[""], "":[""]
+        }
+    ]
+}
