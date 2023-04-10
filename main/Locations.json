@@ -1,4 +1,5 @@
 {
+    "version":["0.1"],
     "Collectibles":{
         "Action Figure": [
             {"Name": "Action Figures: 1", "X":-2557.78, "Y":2316.22, "Z":33.2159},
