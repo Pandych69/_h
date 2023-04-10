@@ -1,5 +1,5 @@
 {   
-    "Object List Version":["v1.1"],
+    "version":["0.1"],
     "Basic Object List": ["Stunt Track", "Race Buildings", "Containers", "Ramps"],
     "Basic Object":[
         {
