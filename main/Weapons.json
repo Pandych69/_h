@@ -1,5 +1,6 @@
 {
-    "AllWeapon":[	
+    "version":["0.1"],
+    "all_weapon":[	
         {"name":"Pipe Wrench", "hash":419712736}, {"name":"Stone Hatchet", "hash":940833800}, {"name":"Golf Club", "hash":1141786504}, {"name":"Hammer", "hash":1317494643}, {"name":"Nightstick", "hash":1737195953}, {"name":"Crowbar", "hash":2227010557}, {"name":"Flashlight", "hash":2343591895}, {"name":"Antique Cavalry Dagger", "hash":2460120199}, {"name":"Pool Cue", "hash":2484171525}, {"name":"Baseball Bat", "hash":2508868239}, {"name":"Knife", "hash":2578778090}, {"name":"Battle Axe", "hash":3441901897},
         {"name":"Knuckle Duster", "hash":3638508604}, {"name":"Machete", "hash":3713923289}, {"name":"Switchblade", "hash":3756226112}, {"name":"Hatchet", "hash":4191993645}, {"name":"Bottle", "hash":4192643659}, {"name":"Minigun", "hash":1119849093}, {"name":"Homing Launcher", "hash":1672152130},  {"name":"Firework Launcher", "hash":2138347493},  {"name":"RPG", "hash":2982836145}, {"name":"Widowmaker", "hash":3056410471},
         {"name":"Homing Launcher", "hash":1672152130}, {"name":"Railgun", "hash":1834241177}, {"name":"Railgun 2", "hash":4272043364}, {"name":"Grenade Launcher", "hash":2726580491}, {"name":"Compact Grenade Launcher", "hash":125959754}, {"name":"Emp Launcher", "hash":3676729658}, {"name":"Military Rifle", "hash":2636060646}, {"name":"Tactical Rifle", "hash":3520460075}, {"name":"Heavy rifle", "hash":3347935668}, {"name":"Assault Rifle Mk II", "hash":961495388},
